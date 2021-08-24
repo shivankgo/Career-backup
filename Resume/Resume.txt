@@ -1,0 +1,41 @@
+
+How to make perfect resumme
+
+
+	1. What are they looking for, Why they are looking it for
+
+		3 Versions of cv
+		cv 1	(front end Web developer) (back end developer) (scripting)
+		cv 2	(back end developer) (front end Web developer) (scripting)
+		cv 3	(scripting) (front end) (back end)
+
+	2. Avoid unecessary things
+
+		my
+			what is interpenureship
+	3. Eye catching
+
+		my
+		What  iis internship?
+
+		Build resume with help of webdevelopment
+
+		python  -> CV template
+
+		made resume using python
+
+		using capital letters whenever possible
+
+	
+	4. Render you cv or resume in text format
+		google doc
+		microsoft word
+	
+
+	5. Use key words from job posting and create a profeciional title
+		AIENTUSIAST, Inovetor, FastLearner
+		Get KKeywords from job posting
+		Avoid : hardworking, verygood, best	
+
+	6. Back data with numbers
+		Revamed recomendation system

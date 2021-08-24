@@ -1,0 +1,103 @@
+1. Data Table?
+A. 
+
+2. Data Set?
+A. Data Sets are collection of dataTables.
+   Using DataAdepters class we can get the data from database and fill the data set.
+   Relationships can be maintained. Can sync the database.
+
+3. Difference between dataset and data table?
+
+4. Session storage?
+
+5. local storage?
+
+6. cookies?
+
+7. onload in javascript?
+
+8. Try(), catch() and final block?
+
+9. What are control tools?
+
+10. Difference between drop, delete and truncate?
+
+11. What are stored procedure?
+
+12. Syntax for stored procedure?
+
+13. Temp variable in sql?
+
+14. Difference between drop, delete and truncate?
+
+15. Session management in asp?
+
+16. Static and everything
+
+17. Reporting tool?
+
+18. git?
+
+19. OOPS
+
+20. Solid Principals?
+
+21. Angular 9 features over old version?
+
+22. Directives?
+
+23. Pipes?
+
+24. Dependency injection?
+
+25. CanActivate? canLoad?
+
+26. Routguard?
+
+27. Interceptor?
+
+28. MergeMap?
+
+29. Forks Join
+
+30. Promise vs observable?
+
+31. App_initializer
+
+32. Authentication?
+
+33. Autherisation?
+
+34. Rxjs?
+
+35. Behavioural Subject?
+
+36. Cli for creating project, running app, creating other different stuff like directives, pipes, components etc
+
+37. Types of constructors and deconstructors?
+
+38. Difference between Convert.toString() and .toString() and stringBuilder
+
+39. a blank class object.toString()
+
+40. Late binding?
+
+41. Generics?
+
+42. Table VS Dictionary?
+
+43. Boxing VS Unboxing?
+
+SQL
+
+44. Trigger, Indexer
+
+45. Inner Join, Outer Join, Equal Join...
+
+46. CTE?
+
+-> .NET CORE
+
+47. Main Features
+
+48.   

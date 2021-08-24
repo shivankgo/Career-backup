@@ -1,0 +1,41 @@
+1. What is angular?
+
+
+
+
+
+
+
+
+
+
+
+1. What is routing?
+
+
+2. What is routeGuard and its types?
+
+  
+
+3. CanActivate route guard?
+
+ Interface that a class can implement to be gurd deciding if a route can be activated.
+ If all guards return true, navigation will be continue. If any guard returns false navigation will be canceled.
+
+ (Refer:-https://www.youtube.com/watch?v=PbmY7tTPqBs)
+
+4. CanDeactivate routeGuard?
+ 
+ The angular canDeactivate guard is called, whenever we navigate away from the route before the current component gets deactivated.
+ example: Giving a user confirmation if he leaves the page without saving the data.
+
+5.
+ 
+
+5. Data binding
+ a. Interpolation (binds data from component to view)
+ b. propertyBinding 
+ c. EventBinding
+ d. Two-way binding
+
+
